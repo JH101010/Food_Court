@@ -35,4 +35,6 @@
 ## ERD
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232" width="70%" height="70%"/>
 
+## 테이블 명세서
+<img width="949" alt="image" src="https://github.com/JH101010/Food_Court/assets/111873058/57d3a893-228f-4d59-b4ec-1a3033b65522">
 
