@@ -90,8 +90,8 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 <br /><br />
 # 실행화면
 <hr />
-### 1. 시작 시 메인 화면
 
+### 1. 시작 시 메인 화면
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/808b748e-64d3-46bc-8a08-5f7aa4307e7d" width="80%" height="80%">
 우측 상단의 ID와 PW는 관리자 전용으로
 ID : admin , PW : 1234 입력 시 관리자모드로 변경
