@@ -47,5 +47,9 @@
 	<div>기본데이터<div>
 	<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
 </span>
+<span>
+	<div>기본데이터<div>
+	<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
+</span>
 
 
