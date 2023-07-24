@@ -3,6 +3,8 @@
 	JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 </div>
 
+<hr />
+
 <div align="right">🛠️Tools🛠️</div>
 <div align="right">
 	<img src="https://img.shields.io/badge/MariaDB-6D4C41?style=flat&logo=MariaDB&logoColor=white" />
