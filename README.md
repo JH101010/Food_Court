@@ -25,15 +25,19 @@
 	
 </div>
 
-<br />
+<br /><br />
 
 ## 요구사항
 * A마트의 푸드코트를 이용한다.
 * 여기에는 한식, 중식, 일식, 양식 코너가 있다.
 * 각 코너에는 기본적으로 파는 음식이 2개씩 있고 판매자에 따라 추가할 수 있다.
 
+<br /><br />
+
 ## ERD
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232" width="70%" height="70%"/>
+
+<br /><br />
 
 ## 테이블 명세서
 <img width="949" alt="image" src="https://github.com/JH101010/Food_Court/assets/111873058/57d3a893-228f-4d59-b4ec-1a3033b65522">
