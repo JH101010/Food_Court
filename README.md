@@ -41,7 +41,7 @@
 
 <br /><br />
 ## 샘플 데이터
-잘 만들어 졌는지 확인하기 위해 실행 시 기본 데이터 값이 생성된다.(DataLoader 파일을 만들어 서버가 시작될 시에 함께 실행되도록 만듬.)
+DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데이터베이스에 기본값들이 자동으로 입력된다.
 <span>
 	<div>기본데이터</div>
 	<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
