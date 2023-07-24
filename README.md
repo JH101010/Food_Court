@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/MariaDB Driver-6D4C41?style=flatstyle=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Lombok-F4511E?style=flat"/>
-	<img src="https://img.shields.io/badge/Spring Data JPA-7CB342?style=flat"/>
+	<img src="https://img.shields.io/badge/Spring Data JPA-558B2F?style=flat"/>
 	
 </div>
 
