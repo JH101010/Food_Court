@@ -3,6 +3,7 @@
 	<img src="https://img.shields.io/badge/Thymeleaf-558B2F1?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
+<hr />
 
 # Food_Court
 JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
