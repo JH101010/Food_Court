@@ -1,4 +1,4 @@
-<div align="center" font-size : 100px> Platforms & Languages </div>
+<div align="center"; font-size : 100px> Platforms & Languages </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
