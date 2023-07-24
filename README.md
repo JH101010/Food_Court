@@ -1,7 +1,7 @@
 <div align="right">🛠️Tools🛠️</div>
 <div align="right">
 	<img src="https://img.shields.io/badge/MariaDB-6D4C41?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ-1976D2?style=flat&logo=IntelliJ&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ-1976D2?style=flat&logo=000000&logoColor=white" />
 </div>
 
 <br />
