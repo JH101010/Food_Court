@@ -48,11 +48,11 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 	<tr>
 		<td>
 			<div>기본데이터</div>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="100%" height="100%">
 		</td>
 		<td>
 			<div>1. 조회_SELECT * FROM food_corner WHERE corner_num = 1;</div>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="20%" height="20%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="100%" height="100%">
 		</td>
 	</tr>
 </table>
