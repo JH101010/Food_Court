@@ -21,7 +21,7 @@
 
 <div align="right">✈️Dependencies✈️</div>
 <div align="right">
-	<img src="https://img.shields.io/badge/MariaDB Driver-007396?style=flat"/>
+	<img src="https://img.shields.io/badge/MariaDB Driver-6D4C41?style=flatstyle=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Lombok-F57C00?style=flat"/>
 	<img src="https://img.shields.io/badge/Spring Data JPA-1572B6?style=flat"/>
