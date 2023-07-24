@@ -63,4 +63,7 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 	<img src="https://github.com/JH101010/Food_Court/assets/111873058/41bf5d2c-3c83-431a-804c-c8ebb056e46d" width="20%" height="20%">
 </span>
 
+<br /><br />
+# 시작화면
+
 
