@@ -61,10 +61,10 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
   	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="70%" height="70%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="50%" height="75%">
 		</td>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/1326f737-9da3-4a36-b045-050dff6bf219" width="70%" height="70%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/1326f737-9da3-4a36-b045-050dff6bf219" width="75%" height="75%">
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/bece600f-9e31-4c67-abf7-109902475991" width="70%" height="70%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/bece600f-9e31-4c67-abf7-109902475991" width="50%" height="50%">
 		</td>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/41bf5d2c-3c83-431a-804c-c8ebb056e46d" width="70%" height="70%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/41bf5d2c-3c83-431a-804c-c8ebb056e46d" width="50%" height="50%">
 		</td>
 	</tr>
 </table>
@@ -109,18 +109,18 @@ ID : admin , PW : 1234 입력 시 관리자모드로 변경
 <table>
 	<tr>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a055ed30-878d-4fdd-8e35-6c52f680d109" width="40%" height="40%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a055ed30-878d-4fdd-8e35-6c52f680d109" width="100%" height="100%">
 		</td>
 		<td>
-  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a8299a5f-25be-4565-8b46-0ee2763c85ae" width="40%" height="40%">
+  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a8299a5f-25be-4565-8b46-0ee2763c85ae" width="100%" height="100%">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/b9fb7f77-ccb0-48f3-a3e2-4f462b96c6ab" width="40%" height="40%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/b9fb7f77-ccb0-48f3-a3e2-4f462b96c6ab" width="100%" height="100%">
 		</td>
 		<td>
-  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/20b7e659-0625-4171-b43a-5b03a200b19b" width="40%" height="40%">
+  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/20b7e659-0625-4171-b43a-5b03a200b19b" width="100%" height="100%">
 		</td>
 	</tr>
 </table>
