@@ -1,3 +1,6 @@
+<div align="center"> # Food_Court
+JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지 </div>
+
 
 <div align="right">🛠️Tools🛠️</div>
 <div align="right">
@@ -14,8 +17,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-# Food_Court
-JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
+<br />
 
 # 요구사항
 * A마트의 푸드코트를 이용한다.
