@@ -14,7 +14,7 @@
 
 <div align="right">✏️Platforms & Languages✏️</div>
 <div align="right">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat"/>
 	<img src="https://img.shields.io/badge/HTML5-F57C00?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
@@ -23,7 +23,7 @@
 
 <div align="right">✈️Dependencies✈️</div>
 <div align="right">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB Driver-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-F57C00?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
