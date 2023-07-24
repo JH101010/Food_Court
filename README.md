@@ -51,11 +51,11 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 <table>
 	<tr>
 		<td>
-			1. 조회
+			1. 조회<br />
 			SELECT * FROM food_corner WHERE corner_num = 1;
 		</td>
 		<td>
-			2. 삽입
+			2. 삽입<br />
 			INSERT INTO food_corner VALUES(5, 'test1');
 		</td>
   	</tr>
@@ -69,11 +69,11 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 	</tr>
 	<tr>
 		<td>
-			3. 수정
+			3. 수정<br />
 			UPDATE food_corner SET corner_name='test1_re' where corner_num = 5;
 		</td>
 		<td>
-			4. 삭제
+			4. 삭제<br />
 			DELETE FROM food_corner WHERE corner_num = 5;
 		</td>
 	</tr>
