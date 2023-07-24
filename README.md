@@ -42,3 +42,8 @@
 ## 테이블 명세서
 <img width="949" alt="image" src="https://github.com/JH101010/Food_Court/assets/111873058/57d3a893-228f-4d59-b4ec-1a3033b65522">
 
+## 샘플 데이터
+기본데이터
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="70%" height="70%">
+
+
