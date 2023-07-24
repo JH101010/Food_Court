@@ -1,5 +1,6 @@
 <div align="center">
-	<h1>JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지</h1>
+	<h1>JSP프로젝트>
+	<h2>웹에서 사용하는 푸드코트 주문 및 관리 페이지</h2>
 </div>
 
 <div align="right">🛠️Tools🛠️</div>
