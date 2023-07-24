@@ -3,24 +3,22 @@
 	JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 </div>
 
-<hr />
-
-<div align="right">🛠️Tools🛠️</div>
-<div align="right">
+<div align="center">🛠️Tools🛠️</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/MariaDB-6D4C41?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-1976D2?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 </div>
 
 
-<div align="right">✏️Platforms & Languages✏️</div>
-<div align="right">
+<div align="center">✏️Platforms & Languages✏️</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat"/>
 	<img src="https://img.shields.io/badge/HTML5-F57C00?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<div align="right">✈️Dependencies✈️</div>
-<div align="right">
+<div align="center">✈️Dependencies✈️</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/MariaDB Driver-6D4C41?style=flatstyle=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Lombok-F4511E?style=flat"/>
