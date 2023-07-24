@@ -1,4 +1,4 @@
-<h2 align="center">Languages</h2>
+<h1 align="center">Languages</h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
