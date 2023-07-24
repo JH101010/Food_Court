@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>푸드코트</title>
+  <link th:href="@{/css/korean.css}" rel="stylesheet" href="../static/css/korean.css">
+</head>
+<body>
+<div class="head">
+  <div class="home">
+    <a th:href="@{/index}">홈으로</a>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag != 'YES'}">
+    <form action="/login" method="post">
+      <span>ID <input type="text" name="id" size="10"></span>
+      <span>PW <input type="password" name="pw" size="10"></span>
+      <input type="submit" value="로그인">
+    </form>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag == 'YES'}">
+    관리자님 반갑습니다.
+    <button><a th:href="@{/login/logout}">로그아웃</a></button>
+  </div>
+
+
+  <div class="loginBox1" th:if="${session.state != 'YES'}">
+    <form method="post" action="/customer/save">
+      이름 <input type="text" name="customerName" size="10"></span>
+      <input type="submit" value="접속">
+    </form>
+  </div>
+  <div class="loginBox1" th:if="${session.state == 'YES'}">
+    <a th:text="${session.name}"></a> 님 환영합니다.
+    <button><a th:href="@{/customer/logout}">로그아웃</a></button>
+  </div>
+
+  <div class="foodCourt"><a th:href="@{/index}">FOOD COURT</a></div>
+</div>
+
+<div class="body">
+  <div class="subBox">
+    <div class="menuTop">
+      <div>한식</div>
+      <div><a th:href="@{/foodMenu/getCornerNum(cornerNum = 2, value = 'chinese')}">중식</a></div>
+      <div><a th:href="@{/foodMenu/getCornerNum(cornerNum = 3, value = 'japanese')}">일식</a></div>
+      <div><a th:href="@{/foodMenu/getCornerNum(cornerNum = 4, value = 'western')}">양식</a></div>
+    </div>
+
+    <div class="foodMenuBox">
+      <div class="foodMenuTop">
+        <span>메뉴이름</span>
+        <span>가격</span>
+      </div>
+      <div class="foodMenu">
+        <div class="menuList">
+          <form id="foodOrderForm" method="post" action="/foodOrder/save">
+            <table th:each="item : ${foodMenuList}" class="menuT">
+              <tr>
+                <td class="id" th:text="${item.menuNum}"></td>
+                <td class="name" th:text="${item.menuName}"></td>
+                <td class="price" th:text="${item.menuPrice}"></td>
+
+                <td th:if="${session.loginTag == 'YES'}">
+                  <div class="btnM">
+                    <a th:href="@{/foodMenu/delete/{menuNum}(menuNum=${item.menuNum})}">삭제</a>
+                  </div>
+                </td>
+                <td th:if="${session.state == 'YES'}">
+                  <button class="btnP" type="button" onclick="addToCart(this)">장바구니 추가</button>
+                  <input type="hidden" name="selectedMenuNum" />
+                  <input type="hidden" name="selectedMenuName" />
+                  <input type="hidden" name="selectedMenuPrice" />
+                </td>
+              </tr>
+            </table>
+          </form>
+
+          <script>
+            function addToCart(button) {
+              var row = button.parentNode.parentNode;
+              var id = row.querySelector('.id').innerText;
+              var name = row.querySelector('.name').innerText;
+              var price = row.querySelector('.price').innerText;
+
+              var form = document.getElementById('foodOrderForm');
+              form.querySelector('[name="selectedMenuNum"]').value = id;
+              form.querySelector('[name="selectedMenuName"]').value = name;
+              form.querySelector('[name="selectedMenuPrice"]').value = price;
+
+              form.submit();
+            }
+          </script>
+            <br />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="home" th:if="${session.loginTag == 'YES'}">
+    <a th:href="@{/index/plus}">메뉴추가</a>
+  </div>
+
+  <div class="cart">
+    <a th:href="@{/foodOrder/getCustomer}">장바구니</a>
+  </div>
+  <div class="wait">
+    <a th:href="@{/customer/getAll}">대기현황</a>
+  </div>
+</div>
+</body>
+</html>

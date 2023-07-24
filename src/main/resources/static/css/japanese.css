@@ -1,0 +1,276 @@
+* {
+    margin: 0; padding: 0;
+}
+ul,ol {list-style: none;}
+a { text-decoration: none; color : black;}
+
+.head {
+    width:100%;
+    height:100px;
+}
+
+.head .home {
+    position : absolute;
+    margin : 20px;
+    width : 130px;
+    height : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.head .home:hover {
+    background-color : #9E9E9E;
+}
+
+.head .foodCourt {
+    text-align : center;
+    margin : 0 auto;
+    font-size : 50px;
+    font-weight : bold;
+    padding-top : 20px;
+}
+
+.head .loginBox {
+    position:absolute;
+    right : 0;
+}
+
+.head .loginBox1 {
+    position:absolute;
+    right : 0;
+    top : 30px;
+}
+
+.body {
+    width : 100%;
+    height : 650px;
+}
+
+
+
+.subBox {
+    height : 100%;
+    width : 800px;
+    margin : 0 auto;
+
+    position : relative;
+}
+
+.menuTop {
+    width : 800px;
+    height : 100px;
+    display : flex;
+}
+/* 나라별 음식 */
+.menuTop div {
+    width : 150px;
+    height : 59px;
+    margin-right : 20px;
+    margin-top : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    background-color : #FBC02D;
+    border-bottom : 1px solid black;
+}
+
+.menuTop div:nth-child(3) {
+    background-color : #FFD54F;
+    margin-top : 0;
+    height : 100%;
+}
+
+.menuTop div:nth-child(2):hover {
+    background-color : #FFD54F;
+    margin-top : 0;
+    height : 100%;
+
+    transition-property:height 100%;
+    transition-duration:0.2s;
+}
+
+.menuTop div:nth-child(1):hover {
+    background-color : #FFD54F;
+    margin-top : 0;
+    height : 100%;
+
+    transition-property:height 100%;
+    transition-duration:0.2s;
+}
+
+.menuTop div:nth-child(4):hover {
+    background-color : #FFD54F;
+    margin-top : 0;
+    height : 100%;
+
+    transition-property:height 100%;
+    transition-duration:0.2s;
+}
+
+.subBox .foodMenuBox {
+    height : 550px;
+    width : 800px;
+    float : left;
+    position : absolute;
+    bottom : 0;
+    background-color : #FFD54F;
+/*    border : 1px solid black;*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subBox .foodMenuBox .foodMenuTop {
+    width : 750px;
+    height : 100px;
+    position : absolute;
+    top:10px;
+
+    text-align : center;
+    font-size : 50px;
+    font-weight : bold;
+
+    /*border : 2px solid black;*/
+    /*background-color : black;*/
+}
+
+.subBox .foodMenuBox .foodMenuTop span {
+    padding : 0 80px;
+}
+
+.subBox .foodMenuBox .foodMenu {
+    height : 410px;
+    width : 750px;
+    position : absolute;
+    bottom: 45px;
+
+    overflow-y : scroll;
+    background-color : white;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList {
+    font-size : 25px;
+    padding: 30px;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .menuT {
+    height : 50px;
+    width : 100%;
+    border : 1px solid black;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .menuT .id{
+    width : 15%;
+}
+.subBox .foodMenuBox .foodMenu .menuList .menuT .name {
+    width : 45%;
+}
+.subBox .foodMenuBox .foodMenu .menuList .menuT .price {
+    width : 20%;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .btnM {
+    width : 130px;
+    height : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .btnM:hover {
+    background-color : #9E9E9E;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .btnP {
+    width : 200px;
+
+    text-align : center;
+    margin : 0 auto;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.subBox .foodMenuBox .foodMenu .menuList .btnP:hover {
+    background-color : #9E9E9E;
+}
+
+.subBox .foodOrder {
+    height : 450px;
+    width : 500px;
+    position : absolute;
+    right : 0;
+    float : left;
+
+    border : 2px solid black;
+}
+
+.footer {
+    width : 100%;
+    height : 100px;
+}
+
+.footer .home {
+    position : absolute;
+    margin : 20px;
+    width : 130px;
+    height : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.footer .home:hover {
+    background-color : #9E9E9E;
+}
+
+.footer .wait {
+    position : absolute;
+    right:0;
+    margin : 20px;
+    width : 130px;
+    height : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.footer .wait:hover {
+    background-color : #9E9E9E;
+}
+
+.footer .cart {
+    position : absolute;
+    right:150px;
+    margin : 20px;
+    width : 130px;
+    height : 40px;
+    text-align : center;
+    font-size : 30px;
+    font-weight : bold;
+
+    border : 2px solid black;
+    background-color : #BDBDBD;
+}
+
+.footer .cart:hover {
+    background-color : #9E9E9E;
+}
+

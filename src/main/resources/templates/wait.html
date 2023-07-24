@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>푸드코트</title>
+  <link th:href="@{/css/index.css}" rel="stylesheet" href="../static/css/index.css">
+</head>
+<body>
+<div class="head">
+  <div class="home">
+    <a th:href="@{/index}">홈으로</a>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag != 'YES'}">
+    <form action="/login" method="post">
+      <span>ID <input type="text" name="id" size="10"></span>
+      <span>PW <input type="password" name="pw" size="10"></span>
+      <input type="submit" value="로그인">
+    </form>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag == 'YES'}">
+    관리자님 반갑습니다.
+    <button><a th:href="@{/login/logout}">로그아웃</a></button>
+  </div>
+
+
+  <div class="loginBox1" th:if="${session.state != 'YES'}">
+    <form method="post" action="/customer/save">
+      이름 <input type="text" name="customerName" size="10"></span>
+      <input type="submit" value="접속">
+    </form>
+  </div>
+  <div class="loginBox1" th:if="${session.state == 'YES'}">
+    <a th:text="${session.name}"></a> 님 환영합니다.
+    <button><a th:href="@{/customer/logout}">로그아웃</a></button>
+  </div>
+
+  <div class="foodCourt"><a href="/index">FOOD COURT</a></div>
+</div>
+
+<div class="body">
+  <div class="listBox">
+    <div class="Top">
+      <span>고객번호</span>
+      <span>성함</span>
+    </div>
+    <div class="box">
+      <div class="list">
+        <table th:each="item : ${customerList}" class="listT">
+          <tr>
+            <td class="cId" th:text="${item.customerNum}"></td>
+            <td class="cName" th:text="${item.customerName}"></td>
+            <td th:if="${session.loginTag == 'YES'}">
+              <div class="btnM">
+                <a th:href="@{/foodOrder/getCustomerS/{customerNum}(customerNum=${item.customerNum})}">내역</a>
+              </div>
+              <div class="btnM">
+                <a th:href="@{/customer/delete/{customerId}(customerId=${item.customerNum})}">삭제</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="home" th:if="${session.loginTag == 'YES'}">
+    <a th:href="@{/index/plus}">메뉴추가</a>
+  </div>
+  <div class="wait">
+    <a th:href="@{/foodOrder/getCustomer}">장바구니</a>
+  </div>
+</div>
+</body>
+</html>

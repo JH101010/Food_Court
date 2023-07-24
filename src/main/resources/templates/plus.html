@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>푸드코트</title>
+  <link th:href="@{/css/index.css}" rel="stylesheet" href="../static/css/index.css">
+</head>
+<body>
+<div class="head">
+  <div class="home">
+    <a th:href="@{/index}">홈으로</a>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag != 'YES'}">
+    <form action="/login" method="post">
+      <span>ID <input type="text" name="id" size="10"></span>
+      <span>PW <input type="password" name="pw" size="10"></span>
+      <input type="submit" value="로그인">
+    </form>
+  </div>
+  <div class="loginBox" th:if="${session.loginTag == 'YES'}">
+    관리자님 반갑습니다.
+    <button><a th:href="@{/login/logout}">로그아웃</a></button>
+  </div>
+
+  <div class="foodCourt"><a href="/index">FOOD COURT</a></div>
+</div>
+
+<div class="body">
+  <div class="subBox">
+
+    <form method="post" action="/foodMenu/save">
+      메뉴이름:<input type="text" name="menuName" ><br>
+      가격:<input type="number" name="menuPrice" ><br>
+      코너번호:
+      <label><input type="radio" name="cornerNum" value="1"> 한식</label>
+      <label><input type="radio" name="cornerNum" value="2"> 중식</label>
+      <label><input type="radio" name="cornerNum" value="3"> 일식</label>
+      <label><input type="radio" name="cornerNum" value="4"> 양식</label>
+      <br />
+      <input type="submit" value="추가" >
+    </form>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="home" th:if="${session.loginTag == 'YES'}">
+    <a th:href="@{/index/plus}">메뉴추가</a>
+  </div>
+
+  <div class="cart">
+    <a th:href="@{/foodOrder/getCustomer}">장바구니</a>
+  </div>
+  <div class="wait">
+    <a th:href="@{/customer/getAll}">대기현황</a>
+  </div>
+</div>
+</body>
+</html>
