@@ -11,6 +11,6 @@ JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 # platforms & Language
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Thymeleaf-E34F26?style=flat&logo=Thymeleaf&logoColor=green" />
+	<img src="https://img.shields.io/badge/Thymeleaf-AED581?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
