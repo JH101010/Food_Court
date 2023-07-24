@@ -1,6 +1,6 @@
 <div align="right">🛠️Tools🛠️</div>
 <div align="right">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB-6D4C41?style=flat&logo=MariaDB&logoColor=white" />
 </div>
 
 <br />
