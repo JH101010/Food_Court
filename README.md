@@ -125,13 +125,17 @@ ID : admin , PW : 1234 입력 시 관리자모드로 변경
 	</tr>
 </table>
 코너 선택 시 처음에는 기본 메뉴들만 출력된다.
+<br /><br />
 
 ### 3. 장바구니 추가
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/020fe89f-0681-45ef-8905-93fd34640ab4" width="70%" height="70%">
 <br />
 우측상단에 로그인 후 메뉴들을 보면 장바구니 추가라는 버튼이 생겨 장바구니에 추가가 가능해진다.
+<br /><br />
 
-
+### 4. 장바구니
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/e0792c6f-1f08-4897-b4d4-f801f28ffe87" width="70%" height="70%">
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/22666760-0ac8-41a9-a01f-bae9e7ffcb18" width="70%" height="70%">
 
 
 
