@@ -33,6 +33,6 @@
 * 각 코너에는 기본적으로 파는 음식이 2개씩 있고 판매자에 따라 추가할 될 수 있다.
 
 ## ERD
-![title](https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232){: width="100" height="100"}
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232" width="100" height="100" />
 
 
