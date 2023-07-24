@@ -1,11 +1,11 @@
 <div align="right">🛠️Tools🛠️</div>
-<br />
 <div align="right">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 
-<div align="right">✏️Platforms & Languages✏️</div>
 <br />
+
+<div align="right">✏️Platforms & Languages✏️</div>
 <div align="right">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
