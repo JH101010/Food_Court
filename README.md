@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Thymeleaf-558B2F1?style=flat&logo=Thymeleaf&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
 # Food_Court
 JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 
@@ -8,9 +14,4 @@ JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 
 * 각 코너에는 기본적으로 파는 음식이 2개씩 있고 판매자에 따라 추가할 될 수 있다.
 
-# platforms & Language
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Thymeleaf-558B2F1?style=flat&logo=Thymeleaf&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+
