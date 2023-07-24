@@ -84,7 +84,7 @@ ID : admin , PW : 1234 입력 시 관리자모드로 변경
 고객으로 접속해야만 주문을 할 수 있다.
 
 ### 2. 코너 선택 시
-<img src="https://github.com/JH101010/Food_Court/assets/111873058/a055ed30-878d-4fdd-8e35-6c52f680d109" width="80%" height="80%">
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/a055ed30-878d-4fdd-8e35-6c52f680d109" width="50%" height="50%">
 
 
 
