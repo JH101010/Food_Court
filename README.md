@@ -2,8 +2,6 @@
 	JSP프로젝트) 웹에서 사용하는 푸드코트 주문 및 관리 페이지
 </div>
 
-<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
-
 <div align="right">🛠️Tools🛠️</div>
 <div align="right">
 	<img src="https://img.shields.io/badge/MariaDB-6D4C41?style=flat&logo=MariaDB&logoColor=white" />
@@ -23,10 +21,10 @@
 
 <div align="right">✈️Dependencies✈️</div>
 <div align="right">
-	<img src="https://img.shields.io/badge/MariaDB Driver-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-F57C00?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB Driver-007396?style=flat/>
+	<img src="https://img.shields.io/badge/Lombok-F57C00?style=flat/>
+	<img src="https://img.shields.io/badge/Spring Data JPA-1572B6?style=flat/>
+	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
 </div>
 
 
