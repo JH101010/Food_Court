@@ -45,17 +45,23 @@
 ## 샘플 데이터
 DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데이터베이스에 기본값들이 자동으로 입력된다.
 <div>
-	기본데이터
+	<div>기본데이터</div>
 	<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
 </div>
 <table>
 	<tr>
 		<td>
-			<div>1. 조회_SELECT * FROM food_corner WHERE corner_num = 1;</div>
+			1. 조회_SELECT * FROM food_corner WHERE corner_num = 1;
+		</td>
+		<td>
+			2. 삽입_INSERT INTO food_corner VALUES(5, 'test1');
+		</td>
+  	</tr>
+	<tr>
+		<td>
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="90%" height="90%">
 		</td>
 		<td>
-			<div>2. 삽입_INSERT INTO food_corner VALUES(5, 'test1');</div>
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/1326f737-9da3-4a36-b045-050dff6bf219" width="90%" height="90%">
 		</td>
 	</tr>
