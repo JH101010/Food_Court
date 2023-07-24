@@ -124,7 +124,11 @@ ID : admin , PW : 1234 입력 시 관리자모드로 변경
 		</td>
 	</tr>
 </table>
-각각의 코너별로 기본 메뉴들이 있다.
+코너 선택 시 처음에는 기본 메뉴들만 출력된다.
+
+### 3. 장바구니 추가
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/020fe89f-0681-45ef-8905-93fd34640ab4" width="70%" height="70%">
+
 
 
 
