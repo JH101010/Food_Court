@@ -167,6 +167,7 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/0d92eac8-e614-474a-80de-7c02e6332031" width="70%" height="70%">
 <br /><br />
 
+메뉴가 추가된 모습
 <table>
 	<tr>
 		<td>
