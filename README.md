@@ -22,10 +22,11 @@
 	<img src="https://img.shields.io/badge/Thymeleaf-33691E?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Lombok-F4511E?style=flat"/>
 	<img src="https://img.shields.io/badge/Spring Data JPA-558B2F?style=flat"/>
-	
 </div>
-
 <br /><br />
+
+
+
 # 데이터베이스
 <hr />
 <h2>요구사항</h2>
@@ -88,9 +89,10 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
    </table>
 <br /><br />
 
+
+
 # 실행화면
 <hr />
-
 
 ### 1. 메인화면
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/3119ae5d-4858-4369-82ed-8df7a11eaa0c" width="70%" height="70%">
@@ -105,7 +107,6 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 우측 상단의 이름은 고객 로그인 칸.
 고객으로 접속해야만 주문을 할 수 있다.
 <br /><br />
-
 
 ### 2. 코너 선택 시
 각 코너 별로 실행 시 넣은 기본 메뉴들이 들어가있다.
@@ -131,7 +132,6 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 또한 고객으로 로그인을 하지않아 장바구니 추가에 추가할 방법이 없다.
 <br /><br />
 
-
 ### 3. 로그인 및 장바구니에 담기
 우측 상단에 고객으로 로그인 후 모습
 <br />
@@ -140,23 +140,39 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 고객으로 로그인 시 우측에 장바구니 추가 버튼이 생긴다.
 <br /><br />
 
-
 ### 4. 장바구니
 파전, 고기라면, 탕수육을 장바구니에 추가 후, 고기라면을 장바구니에서 제외시킨 모습이다.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/e0792c6f-1f08-4897-b4d4-f801f28ffe87" width="70%" height="70%">
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/22666760-0ac8-41a9-a01f-bae9e7ffcb18" width="70%" height="70%">
 <br /><br />
 
-
 ### 5. 대기현황
 현재 주문대기 중인 고객들의 현황을 나타내고 있다.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/bf979e53-8b70-4b33-9cf8-34c1855527c9" width="70%" height="70%">
 <br /><br />
 
+
+
 # 관리자 계정
 <hr />
 
-### 1. 관리자 계정으로 접속 시에 우측하단에 메뉴 추가 버튼이 생성된다.
+### 1. 관리자 계정으로 접속 시
+우측하단에 메뉴 추가 버튼이 생성된다.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/fa7bb610-0c1c-46d7-9136-2d5317dbc7d4" width="70%" height="70%">
 <br /><br />
+
+### 2. 메뉴 추가
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/0d92eac8-e614-474a-80de-7c02e6332031" width="70%" height="70%">
+<br /><br />
+
+<table>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/4a81b5cc-54c5-4872-bfb0-53e97d1e8aae" width="70%" height="70%">	
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/d408d9e9-d77b-4080-bd7e-5ab24263fbf4" width="70%" height="70%">	
+		</td>
+	</tr>
+</table>
 
