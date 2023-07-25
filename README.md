@@ -46,7 +46,8 @@
 ## 샘플 데이터
 DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데이터베이스에 기본값들이 자동으로 입력된다.
 <div>
-	<div>기본코너</div>
+	기본코너
+	<br />
 	<img src="https://github.com/JH101010/Food_Court/assets/111873058/43e988fa-c2be-4f98-96c7-658d2f51cd03" width="20%" height="20%">
 </div>
 <table>
@@ -158,6 +159,7 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 
 ### 1. 관리자 계정으로 접속 시
 우측하단에 메뉴 추가 버튼이 생성된다.
+<br />
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/fa7bb610-0c1c-46d7-9136-2d5317dbc7d4" width="70%" height="70%">
 <br /><br />
 
