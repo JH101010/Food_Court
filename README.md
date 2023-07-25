@@ -64,7 +64,10 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="50%" height="75%">
 		</td>
 		<td>
-			<img src="https://github.com/JH101후
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/f58f419e-197d-4baf-a878-131a9d443be7" width="50%" height="75%">
+		</td>
+  	</tr>
+   </table>
 <br /><br />
 
 ### 4. 장바구니
