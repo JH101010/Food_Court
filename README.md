@@ -67,6 +67,24 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/f58f419e-197d-4baf-a878-131a9d443be7" width="50%" height="75%">
 		</td>
   	</tr>
+	<tr>
+		<td>
+			3. 수정<br />
+			UPDATE food_corner SET corner_name='test1_re' where corner_num = 5;
+		</td>
+		<td>
+			4. 삭제<br />
+			DELETE FROM food_corner WHERE corner_num = 5;
+		</td>
+  	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/2b6149ef-b218-4ed9-81d0-109743788c89" width="50%" height="75%">
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/25e55c78-12b7-488d-bf07-4cde93768a4e" width="50%" height="75%">
+		</td>
+  	</tr>
    </table>
 <br /><br />
 
