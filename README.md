@@ -107,7 +107,6 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 
 ### 2. 코너 선택 시
 각 코너 별로 실행 시 넣은 기본 메뉴들이 들어가있다.
-<img src="" width="70%" height="70%">
 <table>
 	<tr>
 		<td>
@@ -127,12 +126,21 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 	</tr>
 </table>
 <br />
-또한 로그인을 하지않아 코너 별로 장바구니 추가가 보이지 않는 모습.
+또한 고객으로 로그인을 하지않아 장바구니 추가에 추가할 방법이 없다.
 <br /><br />
 
 ### 3. 로그인 및 장바구니에 담기
+<br />
+우측 상단에 고객으로 로그인 후 모습
+<br />
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/c97c287e-5379-4e42-b36a-e67e09186556" width="70%" height="70%">
+<br />
+고객으로 로그인 시 우측에 장바구니 추가 버튼이 생긴다.
+
 
 ### 4. 장바구니
+<br />
+파전, 고기라면, 탕수육을 장바구니에 추가 후, 고기라면을 장바구니에서 제외시킨 모습이다.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/e0792c6f-1f08-4897-b4d4-f801f28ffe87" width="70%" height="70%">
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/22666760-0ac8-41a9-a01f-bae9e7ffcb18" width="70%" height="70%">
 
