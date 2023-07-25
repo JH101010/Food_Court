@@ -171,10 +171,10 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 <table>
 	<tr>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/4a81b5cc-54c5-4872-bfb0-53e97d1e8aae" width="70%" height="70%">	
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/4a81b5cc-54c5-4872-bfb0-53e97d1e8aae" width="100%" height="100%">	
 		</td>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/d408d9e9-d77b-4080-bd7e-5ab24263fbf4" width="70%" height="70%">	
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/d408d9e9-d77b-4080-bd7e-5ab24263fbf4" width="100%" height="100%">	
 		</td>
 	</tr>
 </table>
