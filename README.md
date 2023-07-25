@@ -155,6 +155,7 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 
 # 관리자 계정
 <hr />
+
 ### 1. 관리자 계정으로 접속 시에 우측하단에 메뉴 추가 버튼이 생성된다.
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/fa7bb610-0c1c-46d7-9136-2d5317dbc7d4" width="70%" height="70%">
 <br /><br />
