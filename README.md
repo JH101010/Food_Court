@@ -88,6 +88,23 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
    </table>
 <br /><br />
 
+# 실행화면
+<hr />
+
+### 1. 메인화면
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/3119ae5d-4858-4369-82ed-8df7a11eaa0c" width="70%" height="70%">
+<br />
+우측 상단의 ID와 PW는 관리자 전용으로
+ID : admin , PW : 1234 입력 시 관리자모드로 변경
+
+관리자 접속 시 기능은 뒤에서 설명
+
+홈으로 또는 FOOD COURT 클릭 시 시작화면으로 이동
+
+우측 상단의 이름은 고객 로그인 칸
+고객으로 접속해야만 주문을 할 수 있다.
+<br /><br />
+
 ### 4. 장바구니
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/e0792c6f-1f08-4897-b4d4-f801f28ffe87" width="70%" height="70%">
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/22666760-0ac8-41a9-a01f-bae9e7ffcb18" width="70%" height="70%">
