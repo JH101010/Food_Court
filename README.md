@@ -35,11 +35,11 @@
 
 <br /><br />
 ## ERD
-<img src="https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232" width="50%" height="50%"/>
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/79f2f01f-bb9e-4244-8924-4263afb60232" width="60%" height="60%"/>
 
 <br /><br />
 ## 테이블 명세서
-<img src="https://github.com/JH101010/Food_Court/assets/111873058/57d3a893-228f-4d59-b4ec-1a3033b65522" width="50%" height="50%">
+<img src="https://github.com/JH101010/Food_Court/assets/111873058/57d3a893-228f-4d59-b4ec-1a3033b65522" width="70%" height="70%">
 
 <br /><br />
 ## 샘플 데이터
