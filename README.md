@@ -200,6 +200,26 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 		</td>
 	</tr>
 </table>
+<br /><br />
+
+### 4. 관계 매핑
+앞의 ERD에서 나온 거 처럼 관계 매핑 되어있어, 외래키에 해당하는 값이 삭제되면 그 외래키를 포함하고 있는 컬럼도 같이 삭제된다.
+<table>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/8af7945a-052c-45f0-bdfc-f20447340a7a" width="100%" height="100%">
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/6e5c842e-61d0-4462-b990-0ad622245286" width="100%" height="100%">
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/7bd046b6-7a41-4747-917c-588d112281bc" width="100%" height="100%">
+		</td>
+	</tr>
+</table>
+test1을 메뉴에서 삭제해서 장바구니에서 test1들이 삭제된 모습.
+후보키가 있는 나머지 테이블들도 마찬가지이다.
+
 
 
 
