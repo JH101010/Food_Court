@@ -94,16 +94,43 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 ### 1. 메인화면
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/3119ae5d-4858-4369-82ed-8df7a11eaa0c" width="70%" height="70%">
 <br />
-우측 상단의 ID와 PW는 관리자 전용으로
-ID : admin , PW : 1234 입력 시 관리자모드로 변경
+우측 상단의 ID와 PW는 관리자 전용 로그인 칸.
+ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 
 관리자 접속 시 기능은 뒤에서 설명
 
 홈으로 또는 FOOD COURT 클릭 시 시작화면으로 이동
 
-우측 상단의 이름은 고객 로그인 칸
+우측 상단의 이름은 고객 로그인 칸.
 고객으로 접속해야만 주문을 할 수 있다.
 <br /><br />
+
+### 2. 코너 선택 시
+각 코너 별로 실행 시 넣은 기본 메뉴들이 들어가있다.
+<img src="" width="70%" height="70%">
+<table>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/d022e8c1-9db5-44fd-8c32-1b5b8b4d1758" width="70%" height="70%">
+		</td>
+  		<td>
+	  		<img src="https://github.com/JH101010/Food_Court/assets/111873058/e82fdf4a-2a07-43a4-a848-ebd286dcdd97" width="70%" height="70%">
+  		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/3dc31f96-18fb-4619-8264-7a9f8b3ef70d" width="70%" height="70%">
+		</td>
+  		<td>
+	  		<img src="https://github.com/JH101010/Food_Court/assets/111873058/278d7d2b-70cd-4eba-bcd0-4fdbe2759993" width="70%" height="70%">
+  		</td>
+	</tr>
+</table>
+<br />
+또한 로그인을 하지않아 코너 별로 장바구니 추가가 보이지 않는 모습.
+<br /><br />
+
+### 3. 로그인 및 장바구니에 담기
 
 ### 4. 장바구니
 <img src="https://github.com/JH101010/Food_Court/assets/111873058/e0792c6f-1f08-4897-b4d4-f801f28ffe87" width="70%" height="70%">
