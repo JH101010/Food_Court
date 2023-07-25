@@ -64,73 +64,7 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/fe02b4c5-d9a3-4827-aae6-40bb975ad6a9" width="50%" height="75%">
 		</td>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/1326f737-9da3-4a36-b045-050dff6bf219" width="75%" height="75%">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			3. 수정<br />
-			UPDATE food_corner SET corner_name='test1_re' where corner_num = 5;
-		</td>
-		<td>
-			4. 삭제<br />
-			DELETE FROM food_corner WHERE corner_num = 5;
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/bece600f-9e31-4c67-abf7-109902475991" width="50%" height="50%">
-		</td>
-		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/41bf5d2c-3c83-431a-804c-c8ebb056e46d" width="70%" height="70%">
-		</td>
-	</tr>
-</table>
-
-<br /><br />
-# 실행화면
-<hr />
-
-### 1. 시작 시 메인 화면
-<img src="https://github.com/JH101010/Food_Court/assets/111873058/808b748e-64d3-46bc-8a08-5f7aa4307e7d" width="80%" height="80%">
-<br />
-우측 상단의 ID와 PW는 관리자 전용으로
-ID : admin , PW : 1234 입력 시 관리자모드로 변경
-
-관리자 접속 시 기능은 뒤에서 설명
-
-홈으로 또는 FOOD COURT 클릭 시 시작화면으로 이동
-
-우측 상단의 이름은 고객 로그인 칸
-고객으로 접속해야만 주문을 할 수 있다.
-<br /><br />
-
-### 2. 코너 선택 시
-<table>
-	<tr>
-		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a055ed30-878d-4fdd-8e35-6c52f680d109" width="100%" height="100%">
-		</td>
-		<td>
-  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/a8299a5f-25be-4565-8b46-0ee2763c85ae" width="100%" height="100%">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/b9fb7f77-ccb0-48f3-a3e2-4f462b96c6ab" width="100%" height="100%">
-		</td>
-		<td>
-  			<img src="https://github.com/JH101010/Food_Court/assets/111873058/20b7e659-0625-4171-b43a-5b03a200b19b" width="100%" height="100%">
-		</td>
-	</tr>
-</table>
-코너 선택 시 처음에는 기본 메뉴들만 출력된다.
-<br /><br />
-
-### 3. 장바구니 추가
-<img src="https://github.com/JH101010/Food_Court/assets/111873058/020fe89f-0681-45ef-8905-93fd34640ab4" width="70%" height="70%">
-<br />
-우측상단에 로그인 후 메뉴들을 보면 장바구니 추가라는 버튼이 생겨 장바구니에 추가가 가능해진다.
+			<img src="https://github.com/JH101후
 <br /><br />
 
 ### 4. 장바구니
