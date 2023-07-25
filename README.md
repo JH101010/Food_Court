@@ -82,7 +82,7 @@ DataLoader 파일을 만들어 서버가 처음 시작될 시 실행되어 데�
 			<img src="https://github.com/JH101010/Food_Court/assets/111873058/2b6149ef-b218-4ed9-81d0-109743788c89" width="50%" height="75%">
 		</td>
 		<td>
-			<img src="https://github.com/JH101010/Food_Court/assets/111873058/25e55c78-12b7-488d-bf07-4cde93768a4e" width="50%" height="75%">
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/25e55c78-12b7-488d-bf07-4cde93768a4e" width="70%" height="95%">
 		</td>
   	</tr>
    </table>
