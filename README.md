@@ -179,4 +179,27 @@ ID : admin , PW : 1234 입력 시 관리자모드로 로그인.
 	</tr>
 </table>
 관리자 계정으로만 로그인 했을 때는 장바구니 추가 버튼이 활성화가 되지 않는 모습이다.
+<br /><br />
+
+### 3. 대기현황
+![image](https://github.com/JH101010/Food_Court/assets/111873058/0cab603a-687e-4f0c-9665-76ec87a3f93d)
+관리자는 대기현황의 고객들의 주문 내역을 볼 수 있고 대기현황에서 삭제도 할 수 있다.
+<br />
+
+#### 주문내역
+<table>
+	<tr>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/b2a3ba86-bea4-42a0-acb4-00266ec6c548" width="100%" height="100%">
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/e2e3233b-e5b1-4d0f-b8fe-2e4c84aec747" width="100%" height="100%">
+		</td>
+		<td>
+			<img src="https://github.com/JH101010/Food_Court/assets/111873058/0da0f13d-72d2-4abb-a93d-bb0a9aed91b9" width="100%" height="100%">
+		</td>
+	</tr>
+</table>
+
+
 
